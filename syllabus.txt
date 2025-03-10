@@ -1,0 +1,164 @@
+Content of [Computer Scince with python (textbook-XII) by Sumita Arora]
+
+
+1. Python Revision Tour
+   1.1 Introduction
+   1.2 Tokens in Python
+       1.2.1 Keywords 
+       1.2.2 Identifiers (Names) 
+       1.2.3 Literals/Values 
+       1.2.4 Operators 
+       1.2.5 Punctuators 
+   1.3 Barebones of a Python Program
+   1.4 Variables and Assignments
+       1.4.1 Dynamic Typing 
+       1.4.2 Multiple Assignments 
+   1.5 Simple Input and Output
+   1.6 Data Types
+   1.7 Mutable and Immutable Types
+   1.8 Expressions
+       1.8.1 Evaluating Arithmetic Operations 
+       1.8.2 Evaluating Relational Expressions 
+       1.8.3 Evaluating Logical Expressions 
+       1.8.4 Type Casting (Explicit Type Conversion) 
+       1.8.5 Math Library Functions 
+   1.9 Statement Flow Control
+   1.10 The if Conditionals
+       1.10.1 Plain if Conditional Statement 
+       1.10.2 The if-else Conditional Statement 
+       1.10.3 The if-elif Conditional Statement 
+       1.10.4 Nested if Statements 
+       1.10.5 Storing Conditions 
+   1.11 Looping Statements
+       1.11.1 The for Loop 
+       1.11.2 The while Loop 
+   1.12 Jump Statements – break and continue
+   1.13 More on Loops
+       1.13.1 Loop else Statement 
+       1.13.2 Nested Loops 
+
+
+2. Python Revision Tour II
+   2.1 Introduction
+   2.2 Strings in Python
+       2.2.1 Item Assignment Not Supported
+       2.2.2 Traversing a String
+       2.2.3 String Operators 
+       2.2.4 String Slices 
+       2.2.5 String Functions 
+   2.3 Lists in Python
+       2.3.1 Creating Lists 
+       2.3.2 Lists vs. Strings 
+       2.3.3 List Operations 
+       2.3.4 List Manipulation 
+       2.3.5 Making True Copy of a List 
+       2.3.6 List Functions 
+   2.4 Tuples in Python
+       2.4.1 Creating Tuples 
+       2.4.2 Tuples vs. Lists 
+       2.4.3 Tuple Operations 
+       2.4.4 Tuple Functions and Methods 
+   2.5 Dictionaries in Python
+       2.5.1 Creating a Dictionary 
+       2.5.2 Accessing Elements of a Dictionary 
+       2.5.3 Characteristics of a Dictionary 
+       2.5.4 Dictionary Operations 
+       2.5.5 Dictionary Functions and Methods 
+   2.6 Sorting Techniques
+       2.6.1 Bubble Sort 
+       2.6.2 Insertion Sort 
+
+3. Working with Functions
+   3.1 Introduction
+   3.2 Understanding Functions
+       3.2.1 Calling/Invoking/Using a Function 
+       3.2.2 Python Function Types
+   3.3 Defining Functions in Python
+       3.3.1 Structure of a Python Program 
+   3.4 Flow of Execution in a Function Call
+       3.4.1 Arguments and Parameters 
+   3.5 Passing Parameters
+       3.5.1 Positional/Required Arguments 
+       3.5.2 Default Arguments 
+       3.5.3 Keyword (Named) Arguments 
+       3.5.4 Using Multiple Argument Types Together 
+   3.6 Returning Values from Functions
+       3.6.1 Returning Multiple Values 
+   3.7 Composition
+   3.8 Scope of Variables
+       3.8.1 Name Resolution (Resolving Scope of a Name) 
+   3.9 Mutable/Immutable Properties of Passed Data Objects
+       3.9.1 Mutability/Immutability of Arguments/Parameters and Function Calls 
+
+
+4. Using Python Libraries
+   4.1 Introduction
+   4.2 What is a Library?
+       4.2.1 What is a Module? 
+   4.3 Importing Modules in a Python Program
+       4.3.1 Importing Entire Module 
+       4.3.2 Importing Select Objects from a Module 
+       4.3.3 Python’s Processing of import <module> Command 
+   4.4 Using Python Standard Library’s Functions and Modules
+       4.4.1 Using Python’ Built-in Functions 
+       4.4.2 Working with Some Standard Library Modules 
+   4.5 Creating a Python Library
+       4.5.1 Structure of a Package 
+       4.5.2 Procedure for Creating Packages 
+       4.5.3 Using/Importing Python Libraries 
+
+
+5. File Handling
+   5.1 Introduction
+   5.2 Data Files
+   5.3 Opening and Closing Files
+       5.3.1 Opening Files 
+       5.3.2 Closing Files 
+   5.4 Working with Text Files
+       5.4.1 Reading from Text Files 
+       5.4.2 Writing onto Text Files 
+       5.4.3 The flush() Function 
+       5.4.4 Removing Whitespaces after Reading from File 
+       5.4.5 Significance of File Pointer in File Handling 
+   5.5 Standard Input, Output and Error Streams
+   5.6 Working with Binary Files
+       5.6.1 Creating/Opening/Closing Binary Files 
+       5.6.2 Writing onto a Binary File – Pickling
+       5.6.3 Reading from a Binary File – UnPickling 
+       5.6.4 Searching in a File 
+       5.6.5 Updating in a Binary File 
+   5.7 Working with CSV Files
+       5.7.1 Opening/Closing CSV Files 
+       5.7.2 Writing in CSV Files 
+       5.7.3 Reading in CSV Files 
+
+
+6. Exception Handling
+   6.1 Introduction
+   6.2 Exception and Exception Handling
+   6.3 Concept of Exception Handling
+   6.4 Exception Handling in Python
+       6.4.1 General Built-in Python Exceptions 
+       6.4.2 Second Argument of the except Block 
+       6.4.3 Handling Multiple Errors 
+       6.4.4 The finally Block 
+       6.4.5 Raising/Forcing an Exception 
+
+
+7. Data Structures
+   7.1 Introduction
+   7.2 Elementary Data Representation
+   7.3 Different Data Structures
+       7.3.1 Linear Lists: Arrays 
+       7.3.2 Stacks 
+       7.3.3 Queues 
+       7.3.4 Linked Lists
+       7.3.5 Trees 
+   7.4 Operations on Data Structures
+   7.5 Stacks
+       7.5.1 Implementing Stack in Python 
+       7.5.2 Stack Applications 
+
+
+
+
