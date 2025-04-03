@@ -1,0 +1,23 @@
+Hi my fellow friends or simply coders!
+
+My name is Mohammad Sameer and I made this 
+repo to help all the upcoming class 12 students
+who aspire to build their career in computer science.
+
+Sorry for class 11 students - I'm not able to make the specific repo for you all 
+as class 12th's first 2 chapters cover most part of class 11.
+
+Here you'll find:
+- Notes
+- PYQs (Previous Year Questions)
+- Tough questions on each chapter
+- More sections will be added in future
+
+I hope this repo gets 100 stars - then my purpose will be fulfilled. 
+I am also a class 12 student while I started working on this repo.
+
+For any student or coder who wants to collaborate and help me manage and update the repo, 
+contact me through my social media handles. 
+
+Anyone feel free to fork and make changes like improving notes and adding new updated questions. 
+I will definitely review your pull requests!
